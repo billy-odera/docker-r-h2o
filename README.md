@@ -14,7 +14,7 @@ Learn to understand this repository using this course https://www.udemy.com/dock
 
 -- started from rocker/r-base
 -- including java
--- added several packages including h2o
+-- added several packages including h2o package
 
 ## Usage
 
